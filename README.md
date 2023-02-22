@@ -11,7 +11,7 @@
 3. To design a system that performs a useful task
 
 ### Overview
-Using the slide potentiometer to move your spaceship left and right, players will shoot incoming enemy alien ships. The second button will pause/resume the game. Enemy ships are worth a variety of points, and the total sum will be kept track of and displayed as the score at the end of the game. The game ends when an enemy ship reaches the bottom of the screen. 
+This project is an embedded system that allows users to play our copy of Space Invaders developed in C. Using the slide potentiometer to move the spaceship left and right, players shoot incoming enemy alien ships. The second button will pause/resume the game. Enemy ships are worth a variety of points, and the total sum will be kept track of and displayed as the score at the end of the game. The game ends when an enemy ship reaches the bottom of the screen. 
 
 ### Features
 Two buttons: one to shoot at the enemy and one to pause/resume game
